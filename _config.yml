@@ -1,6 +1,6 @@
 name: SteveFarkas
 favicon: null
-layout_spectrum: 0.9743073205463588
+layout_spectrum: 0.88295
 typography_spectrum: 0.7199348700232804
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.45984898041933775
-  lightness: 0.25
-  saturation: 0.7423897264525294
-  rhythmicContrast: 0.75
+  brandStrength: 1
+  lightness: 0.8125
+  saturation: 0.9375
+  rhythmicContrast: 0.25
 purpose: []
